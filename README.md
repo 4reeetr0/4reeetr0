@@ -22,9 +22,3 @@ My passion lies in web development! Usually I'm using ASP.NET and Razor Pages. B
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
