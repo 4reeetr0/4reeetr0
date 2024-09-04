@@ -53,6 +53,24 @@ My passion lies in web development! Usually I'm using ASP.NET and Razor Pages. B
     <td>Website for web development studio.</td>
   </tr>
   <tr>
+    <td>Exchange Rates Telegram Bot</td>
+    <td><a href="https://t.me/exchange_rates_vsk_bot">Click me</a></td>
+    <td>The bot is created to recognize pairs of numbers and currencies in the text, with automatic further conversion to other currencies at current rates.</td>
+  </tr>
+  <tr>
+    <td>Exchange Rates Discord Bot</td>
+    <td><a href="https://discord.com/api/oauth2/authorize?client_id=1142127786518130739&permissions=277025958912&scope=applications.commands+bot">Click me</a></td>
+    <td>The bot is created to recognize pairs of numbers and currencies in the text, with automatic further conversion to other currencies at current rates.</td>
+  </tr>
+  <tr>
+    <td>Bots Support System</td>
+    <td>
+      <a href="https://t.me/ertb_support_bot">Telegram</a>
+      <a href="https://discord.com/api/oauth2/authorize?client_id=1142127786518130739&permissions=277025958912&scope=applications.commands+bot">Discord</a>
+    </td>
+    <td>Real-time application that allows to receive messages from users via bots and respond to them.</td>
+  </tr>
+  <tr>
     <td>GraphView (in work)</td>
     <td>(in work)</td>
     <td>Website for visualising results of FrameView.</td>
